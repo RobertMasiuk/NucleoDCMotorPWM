@@ -70,7 +70,7 @@ static void MX_ADC1_Init(void);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-	 uint16_t raw;
+	 uint16_t raw; // add raw
 	 char msg[10];
 
   /* USER CODE END 1 */
